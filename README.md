@@ -2,8 +2,8 @@
 
 ## Hobbies
 - Basketball :basketball:
-- Chess :chess:
-
+- Running :runner:
+- Chess
 
 ### Contact Information
 -  **Email:** jonathan.z.steif@gmail.com
