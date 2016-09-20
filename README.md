@@ -2,7 +2,7 @@
 
 ## Hobbies
 - Basketball :basketball:
-- Chess
+- Chess :chess:
 
 
 ### Contact Information
