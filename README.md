@@ -1,6 +1,6 @@
 # Practice-repo
 
 ## Hobbies
--Basketball
--Chess
+- Basketball
+- Chess
 
